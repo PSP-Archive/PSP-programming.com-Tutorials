@@ -1,0 +1,26 @@
+# PSP-programming.com-Tutorials
+Recovered tutorial samples from the website.
+
+- Lesson 01: [Get the toolchain and PSPSDK up and running with CYGWIN](https://web.archive.org/web/20090410031505/http://www.psp-programming.com/tutorials/c/lesson01.htm)
+  - [Lesson 01, Part 2](https://web.archive.org/web/20090418032116/http://www.psp-programming.com/tutorials/c/lesson01-2.htm)
+  - [Lesson 01, Part 3](https://web.archive.org/web/20090413062122/http://www.psp-programming.com/tutorials/c/lesson01-3.htm)
+- Lesson 02: [The setup, creation, and execution or a "Hello World"](https://web.archive.org/web/20090413062723/http://www.psp-programming.com/tutorials/c/lesson02.htm)
+  - [Lesson 02, Part 2](https://web.archive.org/web/20090413043001/http://www.psp-programming.com/tutorials/c/lesson02-2.htm)
+  - [Lesson 02, Part 3](https://web.archive.org/web/20090413034321/http://www.psp-programming.com/tutorials/c/lesson02-3.htm)
+- Lesson 03: [A crash course in the basics of C programming for the PSP](https://web.archive.org/web/20090413034343/http://www.psp-programming.com/tutorials/c/lesson03.htm)
+  - [Lesson 03, Part 2](https://web.archive.org/web/20090412223804/http://www.psp-programming.com/tutorials/c/lesson03-2.htm)
+  - [Lesson 03, Part 3](https://web.archive.org/web/20090421081803/http://www.psp-programming.com/tutorials/c/lesson03-3.htm)
+- Lesson 04: [A crash course on adding images to your applications](https://web.archive.org/web/20090412211715/http://www.psp-programming.com/tutorials/c/lesson04.htm)
+  - [Lesson 04, Part 2](https://web.archive.org/web/20090413060519/http://www.psp-programming.com/tutorials/c/lesson04-2.htm)
+  - [Lesson 04, Part 3](https://web.archive.org/web/20090413053044/http://www.psp-programming.com/tutorials/c/lesson04-3.htm)
+  - [Lesson 04, Part 4](https://web.archive.org/web/20090413040316/http://www.psp-programming.com/tutorials/c/lesson04-4.htm)
+  - [Lesson 04, Part 5](https://web.archive.org/web/20090410031601/http://www.psp-programming.com/tutorials/c/lesson04-5.htm)
+- Lesson 05: [More PSP Programming methods including overclocking, colors, and graphics based text](https://web.archive.org/web/20090414061427/http://www.psp-programming.com/tutorials/c/lesson05.htm)
+  - [Lesson 05, Part 2](https://web.archive.org/web/20090414061427/http://www.psp-programming.com/tutorials/c/lesson05-2.htm)
+  - [Lesson 05, Part 3](https://web.archive.org/web/20090414061427/http://www.psp-programming.com/tutorials/c/lesson05-3.htm)
+  - [Lesson 05, Part 4](https://web.archive.org/web/20090414061427/http://www.psp-programming.com/tutorials/c/lesson05-4.htm)
+  - [Lesson 05, Part 5](https://web.archive.org/web/20090414061427/http://www.psp-programming.com/tutorials/c/lesson05-5.htm)
+- Lesson 06: [How to use libmad to play MP3 files in your programs](https://web.archive.org/web/20090413050546/http://www.psp-programming.com/tutorials/c/lesson06.htm)
+  - [Lesson 06, Part 2](https://web.archive.org/web/20090420063835/http://www.psp-programming.com/tutorials/c/lesson06-2.htm)
+  - [Lesson 06, Part 3](https://web.archive.org/web/20090421081020/http://www.psp-programming.com/tutorials/c/lesson06-3.htm)
+  
